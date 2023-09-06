@@ -5,3 +5,16 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   /* border-left: 5px black; */
 }
+
+html {
+  background-color: rgb(237, 255, 236);
+}
+
+li {
+  background-color: rgb(218, 255, 216);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px dashed rgb(166, 211, 164);
+  width: fit-content;
+}
